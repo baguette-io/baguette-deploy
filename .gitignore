@@ -1,0 +1,9 @@
+*.pyc
+*.swp
+*.egg-info
+.cache/
+venv/
+build/
+dist/
+.coverage
+.vscode/
